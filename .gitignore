@@ -1,0 +1,9 @@
+# ignore demo
+demo
+
+#ignore files that ends with log
+*.log
+
+#ignore the test folder
+test/
+
